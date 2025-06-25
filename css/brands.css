@@ -19,7 +19,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button:hover,button:hover {
 	filter:brightness(90%);
-	transform:translateY(-1px);
+	transform:translateY(-5px);
 }
 
 /* Button Icons
@@ -41,7 +41,7 @@
 /* Tumblr */
 .button-tumblr {
     --button-text: #fcffff;
-    --button-background: #b07197;
+    --button-background: #c35ac1;
 }
 
 /* Last.fm */
@@ -53,5 +53,5 @@
 /* Backloggd */
 .button-backloggd {
     --button-text: #fcffff;
-    --button-background: #b07197;
+    --button-background: #724660;
 }
